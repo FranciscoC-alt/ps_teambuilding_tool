@@ -17,3 +17,8 @@ To add the extension to chrome
 The web scraper makes use of Puppeteer, a Node.js library for controlling chrome/chromium used in this case for web scraping by collecting the urls to each pos in the smogon team discussion forums as well as each post's text content.
 
 The chrome extension acceses the data collected by the scraper and ranks the results based on the user query using BM25 to score and rank the relevancy of forum posts.
+
+
+Link to the youtube video with the demo:
+
+https://youtu.be/uRBjM0BzRaA
